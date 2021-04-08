@@ -1,2 +1,2 @@
 # regression_graph
-A simple regression graph representation using tkinter, and other module such as pandas,matplotlib and seaborn.
+A simple regression graph representation using tkinter, and other libraries such as pandas, matplotlib and seaborn.
